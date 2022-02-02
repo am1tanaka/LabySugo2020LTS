@@ -3,5 +3,7 @@
 
 1. 本リポジトリーを任意のフォルダーにクローンして、Unity2020LTSで読み込みます
 1. TextMesh ProのEssensialとExampleをインポートします
-1. アセットストアで以下のフリーアセットを入手して、Package Managerでインポートします
 1. Playして、エラーなく動作することを確認します
+
+## 使用アセット
+- https://kenney.nl/assets/boardgame-pack
