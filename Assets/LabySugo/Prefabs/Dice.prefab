@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898580230221683181}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DiceModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 6925859627813147550}
   - component: {fileID: 6925859627813147539}
   - component: {fileID: 6925859627813147548}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 6925859627959962002}
   - component: {fileID: 6925859627959962007}
   - component: {fileID: 6925859627959962000}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 6925859628535342352}
   - component: {fileID: 6925859628535342357}
   - component: {fileID: 6925859628535342358}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -290,7 +290,7 @@ GameObject:
   - component: {fileID: 6925859629089199131}
   - component: {fileID: 6925859629089199128}
   - component: {fileID: 6925859629089199129}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 6925859629144071145}
   - component: {fileID: 6925859629144071144}
   - component: {fileID: 6925859629144071151}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -433,7 +433,7 @@ GameObject:
   - component: {fileID: 6925859629202090829}
   - component: {fileID: 6925859629202090818}
   - component: {fileID: 6925859629202090819}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -514,7 +514,7 @@ GameObject:
   - component: {fileID: 6925859629630732466}
   - component: {fileID: 6925859629630732471}
   - component: {fileID: 6925859629630732464}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: f5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
